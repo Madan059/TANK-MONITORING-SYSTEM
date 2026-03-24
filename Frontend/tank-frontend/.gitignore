@@ -1,0 +1,12 @@
+# Backend
+Backend/TankMonitorApplication/target/
+Backend/TankMonitorApplication/.classpath
+Backend/TankMonitorApplication/.factorypath
+
+# Frontend
+Frontend/tank-frontend/node_modules/
+Frontend/tank-frontend/dist/
+
+# General
+*.log
+.env
