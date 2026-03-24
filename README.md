@@ -146,7 +146,8 @@ GET /latest
 
 ## 📸 Demo
 
-👉 (Add screenshot here)
+<img width="1633" height="921" alt="image" src="https://github.com/user-attachments/assets/805408a2-2293-40f5-afd1-3df7760fe934" />
+
 
 ---
 
